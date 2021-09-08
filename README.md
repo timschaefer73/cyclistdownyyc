@@ -1,6 +1,6 @@
-# Pedestrian Down ([@PedDownYYC](https://twitter.com/PedDownYYC))
+# Cyclist Down ([@CyclistDownYYC](https://twitter.com/PedDownYYC))
 
-A Twitter bot and website collecting and tweeting pedestrian incidents reported
+A Twitter bot and website collecting and tweeting cyclist incidents reported
 by the @yyctransport Twitter account and OpenData Portal.
 
 Unforunately the tweets and data from the OpenData Portal do not coincide in time
@@ -10,11 +10,10 @@ roughly correlate the data between the two public sources.
 ## History
 
 The initial version of this was a Twitter only bot that would quote any tweet from
-@yyctransport with the words: "ALERT" and "pedestrian" or "ped" but not cleared. In 
-the tweet it mentions the number and tags #yycwalk. 
+@yyctransport with the words: "ALERT" and "cyclist" but not cleared. In 
+the tweet it mentions the number and tags #yycbike. 
 
-Thanks to @yyctransport for reporting the incidents, and [@RrrichardZach](https://twitter.com/RrrichardZach/status/690322441403367424)
-for the push to create the bot.
+Thanks to @yyctransport for reporting the incidents.
 
 ## Caveats
 
